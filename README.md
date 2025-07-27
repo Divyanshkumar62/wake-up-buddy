@@ -67,14 +67,6 @@ npx cap open android
 
 Then run on your device/emulator from Android Studio.
 
-## How to Test (End-to-End)
-
-1. **Sign Up/Login**: Register or log in with your email and password.
-2. **Dashboard**: See your streak, last wake-up, and a button to mark today’s wake-up.
-3. **Mark Wake-Up**: Log your wake-up before 8:00 AM to increase your streak. After logging, you’ll get a motivational toast from Groq AI.
-4. **Set/Change Reminder**: If no reminder is set, pick your preferred time (default 6:30 AM) and set it. You can change or cancel the reminder anytime from the dashboard.
-5. **Notifications**: You’ll receive a daily notification at your chosen time on Android. Make sure to grant notification permissions when prompted.
-6. **Logout/Login**: Log out and back in to verify streak and reminders persist.
 
 ## Tech Stack
 
