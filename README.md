@@ -79,4 +79,4 @@ Then run on your device/emulator from Android Studio.
 
 ---
 
-**WakeUpCoach**: Build your early wake-up habit with science, AI, and a little fun! 🌅
+**WakeUpCoach**: Build your early wake-up habit with science, AI, and a little fun! 
